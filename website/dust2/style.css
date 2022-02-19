@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    }
+.map__dust2{
+    position: relative;
+    top: -82px;
+    left: -270px;
+    width: 1250px;
+    height: 837px;
+    border: solid black 10px;
+}
+.text{
+    position: relative;
+    top: -30px;
+    width: 20px;
+    height: 10px;
+    padding: 30px; 
+}
+.smokes__CTsmoke1{
+    position: absolute;
+    left: 498px;
+    top: 350px;
+    width: 40px;
+    height: 40px; 
+    padding: 0.1px;
+}

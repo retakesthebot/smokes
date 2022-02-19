@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: white;
+    }
+.CTsmoke1__position{
+        position: relative;
+        top: 20px;
+        left: 20px;
+        width: 700px;
+        height: 700px;
+    }
+.CTsmoke1__position2 {
+    position: relative;
+    padding: 0.5px;
+    top: 10px;
+    left: 170px;
+    width: 12%;
+}
+.CTsmoke1__trow{
+    position: relative;
+    top: -760px;
+    left: 1000px;
+    width: 700px;
+    height: 700px;
+}
+.CTsmoke1__trow2 {
+    position: relative;
+    padding: 0.5px;
+    top: -770px;
+    left: 1200px;
+    width: 20%;
+    height: 10%;
+}
